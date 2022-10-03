@@ -25,10 +25,10 @@ What I used:
 
 ## Schematics
 *Component side*
-![Component side](component_side.png)
+![Component side](diag_component_side.png)
 
 *Solder side*
-![Solder side](solder_side.png "Solder side")
+![Solder side](diag_solder_side.png)
 
 ## Board build
 *Preliminary*
