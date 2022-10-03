@@ -21,6 +21,6 @@ What I used:
 * 1 74LS240 (Octal inverter, Line Driver, Tri-State)
 * 1 74LS32 (Quad 2-input OR Gate)
 
-![Image of the board (preliminary status)](/dr-prodigy/kempston-joy-interface/blob/main/board.jpeg)
+![Image of the board (preliminary status)](board.jpeg)
 
-![Build schematic](/dr-prodigy/kempston-joy-interface/blob/main/Kempston%20interface%20v2.pdf)
+![Build schematic](Kempston%20interface%20v2.pdf)
